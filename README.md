@@ -24,3 +24,6 @@ Hi, I am Ege. I am a third year CE student. Here I am publishing stuff that I do
 
 ## [README Generator](https://github.com/egemorgul/readme-generator)
 A command line tool that generates a GitHub profile README by asking you a series of questions
+
+## [Expense Tracker](https://github.com/egemorgul/expense-tracker)
+A mobile-friendly web app built with Python and Flask that lets you log daily expenses, view monthly spending summaries by category, and visualize your budget with a live doughnut chart - all stored locally with no account needed.
