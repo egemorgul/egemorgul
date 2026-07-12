@@ -4,7 +4,7 @@
 ---
 
 [Profile views](https://komarev.com/ghpvc/?username=egemorgul&color=blue&style=flat)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/egemorgul) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/EgeMorgul) [![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=About.me&logoColor=white)]() [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:egemorgul@hotmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/egemorgul) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/EgeMorgul) [![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=About.me&logoColor=white)]() [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:egemorgul@hotmail.com)
 ---
 
 ## About me
