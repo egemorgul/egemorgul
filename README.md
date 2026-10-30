@@ -32,4 +32,4 @@ A Java extension of Conway's Game of Life with special cell types, energy mechan
 A command line tool that generates a GitHub profile README by asking you a series of questions
 
 ## [Expense Tracker](https://github.com/egemorgul/expense-tracker)
-A mobile-friendly web app built with Python and Flask that lets you log daily expenses, view monthly spending summaries by category, and visualize your budget with a live doughnut chart - all stored locally with no account needed.
+A native iPhone app for tracking expenses across separate accounts and seeing where your money goes by category. All data stays on the device. Built with SwiftUI and SwiftData.
