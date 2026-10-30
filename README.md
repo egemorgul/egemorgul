@@ -3,7 +3,7 @@
  ### Soon to graduate computer engineering student
 ---
 
-[![Profile views](https://komarev.com/ghpvc/?username=egemorgul&color=blue&style=flat)]
+![Profile views](https://komarev.com/ghpvc/?username=egemorgul&color=blue&style=flat)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/egemorgul) [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:egemorgul@hotmail.com)
 ---
 
