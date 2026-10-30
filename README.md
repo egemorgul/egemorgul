@@ -9,7 +9,8 @@
 
 ## About me
 
-Hi, I am Ege. I am a third year CE student. Here I am publishing stuff that I do while trying to improve myself hope you like it.
+Hi, I am Ege. I'm a Computer Engineering graduate, now starting my Master's in Computer Engineering at Politecnico di Torino. I enjoy building practical tools and learning by doing. This is where I put my projects.
+
 - 🎓 Currently studying : **Computer Engineering**
 - 🤝 Open to: **Interships**
 - 📍 Based in: **Turin, Italy**
@@ -21,6 +22,9 @@ Hi, I am Ege. I am a third year CE student. Here I am publishing stuff that I do
 ---
 
 ## Projects
+
+## [Extended Game of Life](https://github.com/egemorgul/EN45-Extended-GOL)
+A Java extension of Conway's Game of Life with special cell types, energy mechanics, global events and full state persistence using JPA/Hibernate + H2.
 
 ## [README Generator](https://github.com/egemorgul/readme-generator)
 A command line tool that generates a GitHub profile README by asking you a series of questions
